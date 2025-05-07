@@ -1,5 +1,6 @@
-## Hi there 👋
+# TallyBox 👋
 
+A document management tool that uses AI to extract data from financial documents.
 <!--
 
 **Here are some ideas to get you started:**
